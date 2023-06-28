@@ -1,0 +1,24 @@
+*{
+    margin:0px;
+    padding: 0px;
+    font-family:Century ;    
+}
+header{
+    height:100vh;
+    background-size:cover;
+    background-position: center;
+    min-height: 100px;
+}
+
+.title{
+        position: absolute;
+        top: 47%;
+        text-align: center;     
+}
+.title h1{
+    font-size: 24px;
+    color: brown;
+}
+table, th, td {
+    border:1px solid black;
+  }
